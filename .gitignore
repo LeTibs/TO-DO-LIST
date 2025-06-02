@@ -1,0 +1,19 @@
+# Backend: Node.js / Express
+backend/node_modules/
+backend/.env
+backend/*.log
+
+# Frontend: Vue + Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.vitepress/
+
+# Global
+.DS_Store
+.env
+*.log
+*.sqlite
+*.db
+.vscode/
+.idea/
