@@ -1,0 +1,6 @@
+
+Frontend : Vue.js 3 (avec fetch natif)
+Backend : Node.js + Express
+Base de données : PostgreSQL
+Connexion SQL directe : pg (driver PostgreSQL officiel pour Node.js)
+Communication HTTP : fetch (pas d'Axios)
